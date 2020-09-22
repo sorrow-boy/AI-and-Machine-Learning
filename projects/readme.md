@@ -1,5 +1,7 @@
 # AI and ML projects.
 
+### (AUTO-ENCODER)
+
 #### denoising.py -> 
 this file contains an Sequential model(auto-encoder) of keras library and removes the noise of images i worked on this model using mnist and fashion mnist dataset. I am looking forward to integrate it with mobile camera so that real time noisy images and videos becomes clear.
 
