@@ -1,2 +1,2 @@
 
-## run .html file in browser after downloading to read the real content.
+## run .html file in browser after downloading to read the read content.
